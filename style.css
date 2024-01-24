@@ -1,6 +1,12 @@
-h1 {
+h1{
     color: rebeccapurple;
     text-align: center;
     font-family: fantasy;
 
+}
+
+p{
+    font-size: 150%;
+    color: red;
+    border: 1px solid red ;
 }
