@@ -11,3 +11,14 @@ p{
     border: 20px solid red ;
     padding: 10px 10px;
 }
+
+.p1{
+    color: aqua;
+    padding: 1px 1px;
+    border: 2px solid rebeccapurple;
+}
+
+#p1{
+    color: antiquewhite;
+    border: 10px double chartreuse;
+}
